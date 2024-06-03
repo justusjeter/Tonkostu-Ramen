@@ -1,0 +1,160 @@
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: #faf3e0;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    background-image: url('https://media.istockphoto.com/id/1125716954/vector/narutomaki-with-cute-faces.jpg?s=612x612&w=0&k=20&c=LelmY6rGFrOU5I5mlQglpLNrESUsczuRBlB4qwIL9j4='); 
+    background-attachment: fixed;
+}
+h1 {
+    color: #d23636;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    border: 3px solid #d23636;
+}
+p {
+    font-size: 1.2em;
+    text-align: justify;
+}
+b {
+    color: #d23636;
+    font-weight: bold;
+}
+hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: none;
+    border-top: 2px solid #d23636;
+}
+ol {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: #faf3e0;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    background-image: url('https://media.istockphoto.com/id/1125716954/vector/narutomaki-with-cute-faces.jpg?s=612x612&w=0&k=20&c=LelmY6rGFrOU5I5mlQglpLNrESUsczuRBlB4qwIL9j4='); 
+    background-attachment: fixed;
+}
+h1 {
+    color: #d23636;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    border: 3px solid #d23636;
+}
+ul {
+    font-size: 1.2em;
+    list-style-type: none;
+    padding-left: 20px;
+}
+a {
+    color: #d23636;
+    text-decoration: none;
+    margin-right: 20px;
+}
+h2 {
+    color: #f0722e;
+    margin-top: 30px;
+    font-size: 2em;
+}
+h4 {
+    color:  #d23636;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 2em;
+}
+h3 {
+    color: #ab5e2e;
+    margin-top: 20px;
+    font-size: 1.5em;
+}
+em {
+    color: #d23636;
+    font-style: normal;
+    font-weight: bold;
+}
+li {
+    margin: 10px 0;
+    line-height: 1.6;
+}
+#ramen { 
+    width: 30%;
+    height: 30%;
+    
+}
+#ramen2 {
+    width: 34%;
+}
+#ramen3 {
+    width: 33%;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 0px;
+    padding-top: 0%;
+}
+th, td {
+    border: 1px solid #d23636;
+    padding: 8px;
+    text-align: left;
+    background-color: #f4f4f4;
+}
+th {
+    background-color: #f4f4f4;
+}
+
+form {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+input[type="text"], input[type="email"], textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+}
+input[type="submit"] {
+    background-color: #d23636;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.2em;
+}
+input[type="submit"]:hover {
+    background-color: #a92b2b;
+}
+#NL {
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    border: 3px solid #000000;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    background-color: #000000;
+}
